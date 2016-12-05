@@ -9,3 +9,7 @@
 * [在线调色板](http://tool.chinaz.com/Tools/onlinecolor.aspx)
 * [Http状态码](http://tool.oschina.net/commons?type=5)
 * [在线Markdown编辑器](https://maxiang.io/#)
+* [本人基于Netty框架开发的一个简单聊天室](https://github.com/w516161578/lepheechat)(包括server和client)
+* [依赖注入（Dependency Injection）模式](http://blog.csdn.net/yqj2065/article/details/8510074) (作者：[yqj2065](http://my.csdn.net/yqj2065))
+* [Redis中国组qq群分享内容](http://www.jianshu.com/users/dd92c2f421e3/latest_articles)
+* [HTML5视频播放器](http://www.html5tricks.com/html5-video-player-mobile.html)
